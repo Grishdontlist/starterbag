@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grish\\starterbag\\Starter_Bag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|c:\\users\\grish\\starterbag\\starter_bag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|c:\\users\\grish\\starterbag\\starter_bag\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|c:\\users\\grish\\starterbag\\starter_bag\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|c:\\users\\grish\\starterbag\\starter_bag\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|c:\\users\\grish\\starterbag\\starter_bag\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|c:\\users\\grish\\starterbag\\starter_bag\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|c:\\users\\grish\\starterbag\\starter_bag\\starter_bag.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{105842B0-ACA3-4772-8DBB-EA698191CD66}|Starter_Bag.csproj|solutionrelative:starter_bag.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T02:44:26.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Entities\\User.cs*",
+              "RelativeToolTip": "Entities\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:02:58.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\grish\\starterbag\\Starter_Bag\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\grish\\starterbag\\Starter_Bag\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T20:25:32.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T02:33:47.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\grish\\starterbag\\Starter_Bag\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\grish\\starterbag\\Starter_Bag\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T02:29:27.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:27:39.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Starter_Bag.csproj",
+              "DocumentMoniker": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Starter_Bag.csproj",
+              "RelativeDocumentMoniker": "Starter_Bag.csproj",
+              "ToolTip": "C:\\Users\\grish\\starterbag\\Starter_Bag\\Starter_Bag.csproj",
+              "RelativeToolTip": "Starter_Bag.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-06T01:25:55.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
